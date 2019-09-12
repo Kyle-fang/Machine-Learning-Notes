@@ -1,5 +1,6 @@
 # Machine-Learning-Notes
 # 李宏毅机器学习
+# Supervised Learning
 ## Regression(回归)
    - The output of the target function F is "scalar(标量)"
 ## Classification(分类)
@@ -11,3 +12,7 @@
 ### &emsp;Non-linear Model
 #### &emsp;&emsp;Deep Learning
 #### &emsp;&emsp;SVM, decision tre, K-NN
+## Structured Learning
+# Semi-supervised Learning
+# Transfer Learning
+# Unsupervised Learning
