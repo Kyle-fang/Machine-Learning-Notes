@@ -2,7 +2,7 @@
 # 李宏毅机器学习
 # Supervised Learning
 ## Regression(回归)
-   - The output of the target function F is "scalar(标量)"
+   - The output of the target function F is "scalar(数值)"
 ## Classification(分类)
 ### &emsp;Binary(二元) Classification
    - &emsp;如垃圾邮件分类
