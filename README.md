@@ -20,4 +20,4 @@
 ## Structured Learning
 # Semi-supervised Learning
 # Transfer Learning
-# Unsupervised Learning
+# Unsupervised Learning（非监督学习）
