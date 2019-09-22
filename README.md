@@ -1,5 +1,6 @@
 # Machine-Learning-Notes
 # 李宏毅机器学习
+![]()
 # Supervised Learning（监督学习）
 ## 1.Regression(回归)
    - The output of the target function F is "scalar(数值)"
@@ -23,6 +24,8 @@
          - Learning rate（学习速率）：移动的步长
       - Local minima(局部最小值)
       - Global minima(全局最小值)
+   - generalization(一般化)
+      - Testing Data（测试function）
 ## 2.Classification(分类)
 ### &emsp;(1)Binary(二元)Classification
    - &emsp;&emsp;如垃圾邮件分类
@@ -32,7 +35,7 @@
 ### &emsp;Non-linear Model
 #### &emsp;&emsp;Deep Learning
 #### &emsp;&emsp;SVM, decision tre, K-NN
-## Structured Learning
-# Semi-supervised Learning
-# Transfer Learning
-# Unsupervised Learning（非监督学习）
+## Structured Learning（结构化学习）
+# Semi-supervised Learning（半监督学习）
+# Unsupervised Learning（无监督学习）
+# Transfer Learning（迁移学习）
