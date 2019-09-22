@@ -15,8 +15,10 @@
    - step2·Goodness of Function（好的功能）
       - Training Data
       - Loss function(损失函数): input:a function,output:how bad it is
-      
+      ![](loss_function.jpg)
    - step3·Best Function: Pick the "Best" function
+      - Dradient Descent(梯度下降)：找出使L(f)最小的function
+         - （）
 ## 2.Classification(分类)
 ### &emsp;(1)Binary(二元)Classification
    - &emsp;&emsp;如垃圾邮件分类
