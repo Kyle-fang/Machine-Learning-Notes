@@ -15,10 +15,14 @@
    - step2·Goodness of Function（好的功能）
       - Training Data
       - Loss function(损失函数): input:a function,output:how bad it is
-      ![](loss_function.jpg)
+![](loss_function.jpg)
    - step3·Best Function: Pick the "Best" function
       - Dradient Descent(梯度下降)：找出使L(f)最小的function
-         - （）
+         - （Randomly）Pick 按initial value
+         - 计算损失函数在某点的微分（偏微分），判断往哪边能使L(f)减小
+         - Learning rate（学习速率）：移动的步长
+      - Local minima(局部最小值)
+      - Global minima(全局最小值)
 ## 2.Classification(分类)
 ### &emsp;(1)Binary(二元)Classification
    - &emsp;&emsp;如垃圾邮件分类
