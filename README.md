@@ -1,6 +1,6 @@
 # Machine-Learning-Notes
 # 李宏毅机器学习
-![]()
+![](001.jpg)
 # Supervised Learning（监督学习）
 ## 1.Regression(回归)
    - The output of the target function F is "scalar(数值)"
@@ -16,12 +16,15 @@
    - step2·Goodness of Function（好的功能）
       - Training Data
       - Loss function(损失函数): input:a function,output:how bad it is
-![](loss_function.jpg)
+   ![](loss_function.jpg)
    - step3·Best Function: Pick the "Best" function
-      - Dradient Descent(梯度下降)：找出使L(f)最小的function
+      - Dradient Descent(梯度下降)：Each time we update the parameters,we obtain value that makes L(f) smaller；即找出使L(f)最小的function
          - （Randomly）Pick 按initial value
          - 计算损失函数在某点的微分（偏微分），判断往哪边能使L(f)减小
          - Learning rate（学习速率）：移动的步长
+         - problem：
+            - Stuck at saddle point
+            - Stuck at local minima
       - Local minima(局部最小值)
       - Global minima(全局最小值)
    - generalization(一般化)
