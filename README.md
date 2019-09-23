@@ -2,6 +2,7 @@
 # 李宏毅机器学习
 ![](001.jpg)
 # Supervised Learning（监督学习）
+   - 监督学习**从给定的训练数据集中学习出一个函数，当新的数据到来时，可以根据这个函数预测结果**。监督学习的训练集要求是包括输入和输出，也可以说是特征和目标。训练集中的目标是由人标注的。常见的监督学习算法包括**回归分析**和**统计分类**。
 ## 1.Regression(回归)
    - The output of the target function F is "scalar(数值)"
    - 应用：
@@ -29,6 +30,11 @@
       - Global minima(全局最小值)
    - generalization(一般化)
       - Testing Data（测试function）
+   - Back to step1:Redesign the model(重新设计模型)
+      - 当模型需要改进时，可以多次重复该步骤
+   - Back to step2:Regularization(正则化)
+      - 
+### 
 ## 2.Classification(分类)
 ### &emsp;(1)Binary(二元)Classification
    - &emsp;&emsp;如垃圾邮件分类
